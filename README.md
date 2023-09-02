@@ -31,7 +31,7 @@ Download and install Git from [here](https://gitforwindows.org/). During the ins
 We already have an organization created on GitHub with the name "MercenaryMadness." This GitHub organization is a type of account that will help us work together as a team on our Spike Prime projects. To join this organization, follow these steps:
 1. Create a GitHub account if you do not have one already.
 2. Share your GitHub account's email ID (or account name) with one of the admins, so we can send you an invite to join the organization. You can share it in the "FLL-ExploreNChallenge" WhatsApp group. 
-3. Some invitations are already sent out based on the email addresses we have on file. If you aready have a Github account with that email address  accept the invitation to join the organization. If not, just create a new GitHub account and share it in the WhatsApp group as mentioned above. 
+3. Some invitations are already sent out based on the email addresses we have on file. If you aready have a Github account with that email address  accept the invitation to join the organization. If not, just create a new GitHub account and share the account name in the WhatsApp group as mentioned above. 
 4. Once the admin sends you the invite, log in to your GitHub account and accept the invitation. You should now be able to see the "FLL2023" repository under the organization's repositories. If you don't see it, follow these steps:
     - Click on the profile picture at the top right corner of the GitHub web page and select "Your Organizations" from the dropdown menu.
     - You should see "MercenaryMadness" listed on the screen. Click on it to go to the organization's home page.
