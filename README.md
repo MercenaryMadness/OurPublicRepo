@@ -4,9 +4,9 @@ Welcome to the Spike Prime Code Repository Guide! This document is designed to o
 # The Process
 As of now, this is the process we have decided to follow for coding on Spike Prime:
 1. Use the Git repository **FLL2023** (under MecenaryMadness organization on Github) for source control. 
-1. Use Python for coding.
-2. Use Github for source control.
-3. Use Visual Studio Code for:
+2. Use Python for coding.
+3. Use Github for source control.
+4. Use Visual Studio Code for:
     - Running git commands (clone, commit, push, pull).
     - Reviewing and comparing code.
     - Practicing Python, etc.
@@ -30,10 +30,11 @@ Download and install Git from [here](https://gitforwindows.org/). During the ins
 # Setting up Git repository
 We already have an organization created on GitHub with the name "MercenaryMadness." This GitHub organization is a type of account that will help us work together as a team on our Spike Prime projects. To join this organization, follow these steps:
 1. Create a GitHub account if you do not have one already.
-2. Share your GitHub account's email ID (or account name) with one of the admins, so they can send you an invite to join the organization. You can share it in the "FLL-ExploreNChallenge" WhatsApp group.
-3. Once the admin sends you the invite, log in to your GitHub account and accept the invitation. You should now be able to see the "FLL2023" repository under the organization's repositories. If you don't see it, follow these steps:
+2. Share your GitHub account's email ID (or account name) with one of the admins, so they can send you an invite to join the organization. You can share it in the "FLL-ExploreNChallenge" WhatsApp group. 
+3. Some invitations are already sent out based on the email addresses we have on file. If you aready have a Github account with that email address  accept the invitation to join the organization. If not, just create a new GitHub account and share it in the WhatsApp group as mentioned above. 
+4. Once the admin sends you the invite, log in to your GitHub account and accept the invitation. You should now be able to see the "FLL2023" repository under the organization's repositories. If you don't see it, follow these steps:
     - Click on the profile picture at the top right corner of the GitHub web page and select "Your Organizations" from the dropdown menu.
     - You should see "MercenaryMadness" listed on the screen. Click on it to go to the organization's home page.
     - Click on the 'Repositories' menu item (top left) and select the "FLL2023" repository.
-4. Clone this repository to your laptop, preferably using VS Code.
-5. Try out Git commit, push, and pull from VS Code. Make changes only inside the folder with your name.
+5. Clone this repository to your laptop, preferably using VS Code.
+6. Try out Git commit, push, and pull from VS Code. Make changes only inside the folder with your name.
