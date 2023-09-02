@@ -21,7 +21,7 @@ Download and install Python from [here](https://www.python.org/downloads/). If y
 Download and install VS Code from [here](https://code.visualstudio.com/download). In case you have a much older version installed, update it to the latest version.
 
 ## Git for Windows
-Download and install Git from [here](https://gitforwindows.org/). During the installation, there are several screens where you need to make selections. While going with the default choices is fine, I normally make different choices on a few screens, as shown below:
+Download and install Git from [here](https://gitforwindows.org/). During the installation, there are several screens where you need to make selections. While going with the default choices is fine, I normally make different choices on few screens, as shown below:
 
 ![Alt text](image-1.png)
 ![Alt text](image-2.png)
