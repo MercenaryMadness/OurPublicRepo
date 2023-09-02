@@ -3,7 +3,7 @@ Welcome to the Spike Prime Code Repository Guide! This document is designed to o
 
 # The Process
 As of now, this is the process we have decided to follow for coding on Spike Prime:
-1. Use the repository **FLL2023** under MecenaryMadness Github organization for all our Spike Prime code source control. 
+1. Source control: Use the Git repository **FLL2023** (under MecenaryMadness organization on Github). 
 1. Use Python for coding.
 2. Use Github for source control.
 3. Use Visual Studio Code for:
